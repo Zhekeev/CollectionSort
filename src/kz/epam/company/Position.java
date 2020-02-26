@@ -1,4 +1,4 @@
-package kz.epam.militarysystem;
+package kz.epam.company;
 
 import java.util.HashMap;
 import java.util.Map;

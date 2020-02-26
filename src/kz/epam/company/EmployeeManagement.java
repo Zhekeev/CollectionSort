@@ -1,4 +1,4 @@
-package kz.epam.militarysystem;
+package kz.epam.company;
 
 public class EmployeeManagement implements Employee {
     private int id;

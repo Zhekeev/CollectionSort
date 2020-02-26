@@ -1,6 +1,6 @@
-package kz.epam.militarysystem.sort;
+package kz.epam.company.sort;
 
-import kz.epam.militarysystem.Employee;
+import kz.epam.company.Employee;
 
 import java.util.Comparator;
 

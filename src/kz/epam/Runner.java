@@ -1,7 +1,7 @@
 package kz.epam;
 
-import kz.epam.militarysystem.*;
-import kz.epam.militarysystem.sort.*;
+import kz.epam.company.*;
+import kz.epam.company.sort.*;
 
 import java.util.ArrayList;
 import java.util.List;

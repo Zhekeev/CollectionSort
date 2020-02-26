@@ -1,4 +1,4 @@
-package kz.epam.militarysystem;
+package kz.epam.company;
 
 public interface Employee {
     int getId();
