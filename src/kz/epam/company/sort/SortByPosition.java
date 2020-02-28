@@ -9,6 +9,6 @@ public class SortByPosition extends Position implements Comparator<Employee> {
 
     @Override
     public int compare(Employee o, Employee o2) {
-        return positionPriority.get(o.getRank()) - positionPriority.get(o2.getRank());
+        return positionPriority.get(o.getPosition()) - positionPriority.get(o2.getPosition());
     }
 }
